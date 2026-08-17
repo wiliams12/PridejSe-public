@@ -36,4 +36,4 @@ Projekt stavím na robustních technologiích s ohledem na bezpečnost a škálo
 - **Frontend:** Flutter (plynulý multiplatformní zážitek pro iOS a Android z jedné codebase).
 - **Backend & Databáze:** PostGIS & SQL. Zvoleno specificky pro optimalizované zpracování geodat, možnost ukládání geografických hranic oblastí a velmi efektivní dotazování na polohu uživatelů v reálném čase.
 
-**Kontakt:** [Váš e-mail / LinkedIn]
+**Kontakt:** vilem.ucik@gmail.com
