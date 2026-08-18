@@ -1,36 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
-  <style>
-    .g-blob1 { animation: g-drift1 12s ease-in-out infinite; }
-    .g-blob2 { animation: g-drift2 12s ease-in-out infinite; }
-    .g-blob3 { animation: g-drift3 12s ease-in-out infinite; }
-    @keyframes g-drift1 {
-      0%, 100% { transform: translate(0, 0); }
-      25% { transform: translate(40px, -25px); }
-      50% { transform: translate(0, -50px); }
-      75% { transform: translate(-40px, -25px); }
-    }
-    @keyframes g-drift2 {
-      0%, 100% { transform: translate(0, 0); }
-      25% { transform: translate(-30px, 25px); }
-      50% { transform: translate(0, 50px); }
-      75% { transform: translate(30px, 25px); }
-    }
-    @keyframes g-drift3 {
-      0%, 100% { transform: translate(0, 0); }
-      25% { transform: translate(25px, -40px); }
-      50% { transform: translate(-40px, 0); }
-      75% { transform: translate(25px, 40px); }
-    }
-    .g-p { animation: g-pulse 3s ease-in-out infinite; }
-    .p1 { animation-delay: -0.6s; }
-    .p2 { animation-delay: -1.2s; }
-    .p3 { animation-delay: -1.8s; }
-    .p4 { animation-delay: -2.4s; }
-    @keyframes g-pulse {
-      0%, 100% { opacity: 0.15; }
-      50% { opacity: 0.32; }
-    }
-  </style>
   <defs>
     <filter id="g-blur" x="-30%" y="-30%" width="160%" height="160%" color-interpolation-filters="sRGB">
       <feGaussianBlur stdDeviation="60"/>
