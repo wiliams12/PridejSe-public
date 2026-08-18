@@ -45,9 +45,6 @@
   <rect x="70.5" y="50.5" width="659" height="199" rx="18" ry="18" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
   <rect x="71.5" y="51.5" width="657" height="197" rx="17" ry="17" fill="none" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
   
-  <text x="400" y="130.5" text-anchor="middle" fill="#f5f5f7" font-family='"Inter", system-ui, -apple-system, sans-serif' font-size="38" font-weight="600" font-style="normal">PřidejSe</text>
-  <text x="400" y="166.5" text-anchor="middle" fill="#a8a8b3" font-family='"Inter", system-ui, -apple-system, sans-serif' font-size="15" font-weight="500" font-style="normal">Aplikace na seznamování se tady a teď</text>
-  <text x="400" y="194.5" text-anchor="middle" fill="#f5f5f7" font-family='"Inter", system-ui, -apple-system, sans-serif' font-size="13" font-weight="400" font-style="italic" opacity="0.7">flutter - dart - supabase - maps - realtime activity tracking</text>
   <rect x="0.5" y="0.5" width="799" height="299" rx="14" ry="14" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="1"/>
 </svg><img width="800" height="300" alt="header" src="https://github.com/user-attachments/assets/d8b7d937-3cd3-49d9-ab6e-29732a640a8e" />
 
