@@ -39,3 +39,4 @@ Projekt stavím na robustních technologiích s ohledem na bezpečnost a škálo
 - **Backend & Databáze:** PostGIS & SQL. Zvoleno specificky pro optimalizované zpracování geodat, možnost ukládání geografických hranic oblastí a velmi efektivní dotazování na polohu uživatelů v reálném čase.
 
 **Kontakt:** vilem.ucik@gmail.com
+**web:** https://pridejse.com/
